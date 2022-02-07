@@ -42,7 +42,7 @@ $baseUrl = 'http://localhost/rdr/';
 $deleteAfterRead = false;
 $logoUrl = 'https://www.ldoerr.com/typo3conf/ext/ldoerr_template/Resources/Public/Images/ldoerr_logo.svg';
 $title = 'Text Burner - ldoerr.com';
-$copyright = '&copy; 2017 - ' . date('Y') . ' ldoerr.com - All Rights reserved.<br><a style="font-size: 10px;" href="https://www.flaticon.com/free-icons/fire" title="fire icons">Fire icons created by Vitaly Gorbachev - Flaticon</a>';
+$copyright = '&copy; ' . date('Y') . ' ldoerr.com - All Rights reserved.<br><a style="font-size: 10px;" href="https://www.flaticon.com/free-icons/fire" title="fire icons">Fire icons created by Vitaly Gorbachev - Flaticon</a>';
 $additionalHeaders = '
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 ';
